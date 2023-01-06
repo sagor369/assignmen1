@@ -36,6 +36,7 @@
 }
 
 /* header section style end  */
+/* about section style start  */
 .about {
     margin: 50px 100px;
 }
@@ -57,7 +58,42 @@
     color: aquamarine;
     padding-right: 5px;
 }
-.about p{
+
+.about p {
     font-size: 18px;
     color: #27252593;
 }
+
+/* about section style end  */
+
+/* plan section style start  */
+.plan{
+    margin: 100px 150px;
+    text-align: center;
+}
+.plan>h2 {
+    font-size: 45px;
+    font-family: Verdana, sans-serif;
+    padding-bottom: 50px;
+    color: #000000b0;
+}
+.plan-item{
+    display: flex;
+    justify-content: space-around;
+
+}
+.plan-item h2{
+    font-weight: bolder;
+    font-family: Verdana, sans-serif;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.plan-item h5{
+    margin-top: 10px;
+    font-size: 18px;
+    color: #27252593;
+}
+.mind{
+   
+}
+/* plan section style end  */
