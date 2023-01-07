@@ -94,6 +94,24 @@
     color: #27252593;
 }
 .mind{
-   
+    text-align: left;
+    padding: 40px ;
+    margin-top: 40px;
+    border-radius: 8px;
+    background: linear-gradient(to right, #f15d22c2, #f8f8f344), url("../images/watch.png");
+    
+}
+.mind h2{
+    font-size: 40px;
+    font-family: Verdana, sans-serif;
+    color: white;
+}
+.mind-btn{
+    color: #F15B22;
+    font-size: 20px;
+    border: 0;
+    padding: 10px 20px;
+    background-color: #f7f2f0;
+    border-radius: 5px;
 }
 /* plan section style end  */
