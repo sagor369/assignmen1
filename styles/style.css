@@ -124,53 +124,61 @@
 
 /* plan section style end  */
 /* footer section style start hire  */
-.footer-section{
+.footer-section {
     display: flex;
     justify-content: space-evenly;
     background-color: #000000ec;
-    
+
 }
-.footer-section> div{
+
+.footer-section>div {
     width: 50%;
     margin: 120px;
     font-family: Verdana, sans-serif;
     padding-left: 50px;
-    
+
 }
-.footer-title{
+
+.footer-title {
     font-size: 40px;
     color: #ffffffd7;
     padding-bottom: 5px;
     margin-bottom: 0;
 
 }
-.footer-about p{
+
+.footer-about p {
     color: #ffffffb4;
-    
+
 }
-.footer-about h5{
+
+.footer-about h5 {
     color: #ffffffb4;
     margin: 10px 0 20px;
 }
-.footer-about img{
+
+.footer-about img {
     margin-left: 10px;
     padding-top: 20px;
 }
-.subscribe{
+
+.subscribe {
     color: #ffffffb4;
     font-weight: 300;
-    
+
 }
-.s-email{
-    height: 35px ;
+
+.s-email {
+    height: 35px;
     width: 300px;
     border: 1px solid #ffffffb4;
     font-size: 15px;
-    color:#ffffffb4 ;
+    color: #ffffffb4;
     background-color: #00000000;
     padding: 10px;
     border-radius: 5px;
     margin-bottom: 15px;
-    
+
 }
+
 /* footer section style end hire  */
