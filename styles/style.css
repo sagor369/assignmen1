@@ -67,46 +67,53 @@
 /* about section style end  */
 
 /* plan section style start  */
-.plan{
+.plan {
     margin: 100px 150px;
     text-align: center;
 }
+
 .plan>h2 {
     font-size: 45px;
     font-family: Verdana, sans-serif;
     padding-bottom: 50px;
     color: #000000b0;
 }
-.plan-item{
+
+.plan-item {
     display: flex;
     justify-content: space-around;
 
 }
-.plan-item h2{
+
+.plan-item h2 {
     font-weight: bolder;
     font-family: Verdana, sans-serif;
     margin-bottom: 0;
     padding-bottom: 0;
 }
-.plan-item h5{
+
+.plan-item h5 {
     margin-top: 10px;
     font-size: 18px;
     color: #27252593;
 }
-.mind{
+
+.mind {
     text-align: left;
-    padding: 40px ;
+    padding: 40px;
     margin-top: 40px;
     border-radius: 8px;
     background: linear-gradient(to right, #f15d22c2, #f8f8f344), url("../images/watch.png");
-    
+
 }
-.mind h2{
+
+.mind h2 {
     font-size: 40px;
     font-family: Verdana, sans-serif;
     color: white;
 }
-.mind-btn{
+
+.mind-btn {
     color: #F15B22;
     font-size: 20px;
     border: 0;
@@ -114,4 +121,56 @@
     background-color: #f7f2f0;
     border-radius: 5px;
 }
+
 /* plan section style end  */
+/* footer section style start hire  */
+.footer-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #000000ec;
+    
+}
+.footer-section> div{
+    width: 50%;
+    margin: 120px;
+    font-family: Verdana, sans-serif;
+    padding-left: 50px;
+    
+}
+.footer-title{
+    font-size: 40px;
+    color: #ffffffd7;
+    padding-bottom: 5px;
+    margin-bottom: 0;
+
+}
+.footer-about p{
+    color: #ffffffb4;
+    
+}
+.footer-about h5{
+    color: #ffffffb4;
+    margin: 10px 0 20px;
+}
+.footer-about img{
+    margin-left: 10px;
+    padding-top: 20px;
+}
+.subscribe{
+    color: #ffffffb4;
+    font-weight: 300;
+    
+}
+.s-email{
+    height: 35px ;
+    width: 300px;
+    border: 1px solid #ffffffb4;
+    font-size: 15px;
+    color:#ffffffb4 ;
+    background-color: #00000000;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    
+}
+/* footer section style end hire  */
